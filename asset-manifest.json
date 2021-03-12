@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/supercoach/static/css/main.4969c5c9.chunk.css",
+    "main.js": "/supercoach/static/js/main.d95a85ae.chunk.js",
+    "main.js.map": "/supercoach/static/js/main.d95a85ae.chunk.js.map",
+    "runtime-main.js": "/supercoach/static/js/runtime-main.ba8d83b7.js",
+    "runtime-main.js.map": "/supercoach/static/js/runtime-main.ba8d83b7.js.map",
+    "static/js/2.571d3c03.chunk.js": "/supercoach/static/js/2.571d3c03.chunk.js",
+    "static/js/2.571d3c03.chunk.js.map": "/supercoach/static/js/2.571d3c03.chunk.js.map",
+    "static/js/3.fe763a86.chunk.js": "/supercoach/static/js/3.fe763a86.chunk.js",
+    "static/js/3.fe763a86.chunk.js.map": "/supercoach/static/js/3.fe763a86.chunk.js.map",
+    "index.html": "/supercoach/index.html",
+    "static/css/main.4969c5c9.chunk.css.map": "/supercoach/static/css/main.4969c5c9.chunk.css.map",
+    "static/js/2.571d3c03.chunk.js.LICENSE.txt": "/supercoach/static/js/2.571d3c03.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ba8d83b7.js",
+    "static/js/2.571d3c03.chunk.js",
+    "static/css/main.4969c5c9.chunk.css",
+    "static/js/main.d95a85ae.chunk.js"
+  ]
+}
